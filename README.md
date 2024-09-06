@@ -8,8 +8,8 @@ I'm a Full-Stack Web Developer, passionate about building dynamic, user-friendly
 
 ## Skills
 - **Languages:** HTML, CSS, JavaScript, C++, Python
-- **Frameworks & Libraries:** React Js, Angular Js, Express Js, Next Js
-- **Tools & Platforms:** Git, GitHub, VS Code, Node.js, React, MongoDB
+- **Frameworks & Libraries:** React.js, Angular.js, Express.js, Next.js
+- **Tools & Platforms:** Git, GitHub, VS Code, Node.js, MongoDB
 
 ## Connect with Me
 - [LinkedIn](www.linkedin.com/in/shahlabeeb-siddiqui-b95346246)
