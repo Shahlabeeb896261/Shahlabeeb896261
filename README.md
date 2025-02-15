@@ -8,7 +8,7 @@ I'm a Full-Stack Web Developer, passionate about building dynamic, user-friendly
 
 ## Skills
 - **Languages:** HTML, CSS, JavaScript, C++, Python
-- **Frameworks & Libraries:** React.js, Angular.js, Express.js, Next.js
+- **Frameworks & Libraries:** React.js, Express.js, Next.js
 - **Tools & Platforms:** Git, GitHub, VS Code, Node.js, MongoDB
 
 ## Connect with Me
