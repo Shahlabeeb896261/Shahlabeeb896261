@@ -12,6 +12,6 @@ I'm a Full-Stack Web Developer, passionate about building dynamic, user-friendly
 - **Tools & Platforms:** Git, GitHub, VS Code, Node.js, MongoDB
 
 ## Connect with Me
-- [LinkedIn](www.linkedin.com/in/shahlabeeb-siddiqui-b95346246)
+- [LinkedIn](linkedin.com/in/shahlabeeb-b95346246)
 - [Twitter](https://x.com/ShahlabeebSidd4)
 - [Instagram](https://www.instagram.com/shahlabeeb_sk_26?igsh=anRlNDJkMWRua3V4)
